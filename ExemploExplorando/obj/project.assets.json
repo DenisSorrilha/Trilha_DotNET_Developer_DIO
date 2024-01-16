@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\denis.sorrilha.ext\\.nuget\\packages\\": {}
+    "/home/sorrilha/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\denis.sorrilha.ext\\OneDrive - ESPM\\Documentos\\Pessoais\\estudo\\Bootcamp - Avanade - .NET\\DIO_DECOLA_TECH_AVANADE\\ExemploExplorando\\ExemploExplorando.csproj",
+      "projectUniqueName": "/home/sorrilha/Documentos/estudos/Trilha_DotNET_Developer_DIO/ExemploExplorando/ExemploExplorando.csproj",
       "projectName": "ExemploExplorando",
-      "projectPath": "C:\\Users\\denis.sorrilha.ext\\OneDrive - ESPM\\Documentos\\Pessoais\\estudo\\Bootcamp - Avanade - .NET\\DIO_DECOLA_TECH_AVANADE\\ExemploExplorando\\ExemploExplorando.csproj",
-      "packagesPath": "C:\\Users\\denis.sorrilha.ext\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\denis.sorrilha.ext\\OneDrive - ESPM\\Documentos\\Pessoais\\estudo\\Bootcamp - Avanade - .NET\\DIO_DECOLA_TECH_AVANADE\\ExemploExplorando\\obj\\",
+      "projectPath": "/home/sorrilha/Documentos/estudos/Trilha_DotNET_Developer_DIO/ExemploExplorando/ExemploExplorando.csproj",
+      "packagesPath": "/home/sorrilha/.nuget/packages/",
+      "outputPath": "/home/sorrilha/Documentos/estudos/Trilha_DotNET_Developer_DIO/ExemploExplorando/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\denis.sorrilha.ext\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/sorrilha/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
