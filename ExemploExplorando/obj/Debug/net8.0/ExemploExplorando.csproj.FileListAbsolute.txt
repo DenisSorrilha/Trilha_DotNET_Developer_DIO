@@ -1,15 +1,33 @@
-C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.exe
-C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.deps.json
-C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.runtimeconfig.json
-C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.dll
-C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.pdb
-C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.AssemblyInfoInputs.cache
-C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.AssemblyInfo.cs
-C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.CoreCompileInputs.cache
-C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.sourcelink.json
-C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.dll
-C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ExemploExplorando\obj\Debug\net8.0\refint\ExemploExplorando.dll
-C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.pdb
-C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.genruntimeconfig.cache
-C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ExemploExplorando\obj\Debug\net8.0\ref\ExemploExplorando.dll
+C:/Users/denis.sorrilha.ext/OneDrive - ESPM/Documentos/Pessoais/estudo/Bootcamp - Avanade - .NET/DIO_DECOLA_TECH_AVANADE/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando.exe
+C:/Users/denis.sorrilha.ext/OneDrive - ESPM/Documentos/Pessoais/estudo/Bootcamp - Avanade - .NET/DIO_DECOLA_TECH_AVANADE/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando.deps.json
+C:/Users/denis.sorrilha.ext/OneDrive - ESPM/Documentos/Pessoais/estudo/Bootcamp - Avanade - .NET/DIO_DECOLA_TECH_AVANADE/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando.runtimeconfig.json
+C:/Users/denis.sorrilha.ext/OneDrive - ESPM/Documentos/Pessoais/estudo/Bootcamp - Avanade - .NET/DIO_DECOLA_TECH_AVANADE/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando.dll
+C:/Users/denis.sorrilha.ext/OneDrive - ESPM/Documentos/Pessoais/estudo/Bootcamp - Avanade - .NET/DIO_DECOLA_TECH_AVANADE/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando.pdb
+C:/Users/denis.sorrilha.ext/OneDrive - ESPM/Documentos/Pessoais/estudo/Bootcamp - Avanade - .NET/DIO_DECOLA_TECH_AVANADE/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/denis.sorrilha.ext/OneDrive - ESPM/Documentos/Pessoais/estudo/Bootcamp - Avanade - .NET/DIO_DECOLA_TECH_AVANADE/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.AssemblyInfoInputs.cache
+C:/Users/denis.sorrilha.ext/OneDrive - ESPM/Documentos/Pessoais/estudo/Bootcamp - Avanade - .NET/DIO_DECOLA_TECH_AVANADE/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.AssemblyInfo.cs
+C:/Users/denis.sorrilha.ext/OneDrive - ESPM/Documentos/Pessoais/estudo/Bootcamp - Avanade - .NET/DIO_DECOLA_TECH_AVANADE/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.csproj.CoreCompileInputs.cache
+C:/Users/denis.sorrilha.ext/OneDrive - ESPM/Documentos/Pessoais/estudo/Bootcamp - Avanade - .NET/DIO_DECOLA_TECH_AVANADE/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.sourcelink.json
+C:/Users/denis.sorrilha.ext/OneDrive - ESPM/Documentos/Pessoais/estudo/Bootcamp - Avanade - .NET/DIO_DECOLA_TECH_AVANADE/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.dll
+C:/Users/denis.sorrilha.ext/OneDrive - ESPM/Documentos/Pessoais/estudo/Bootcamp - Avanade - .NET/DIO_DECOLA_TECH_AVANADE/ExemploExplorando/obj/Debug/net8.0/refint/ExemploExplorando.dll
+C:/Users/denis.sorrilha.ext/OneDrive - ESPM/Documentos/Pessoais/estudo/Bootcamp - Avanade - .NET/DIO_DECOLA_TECH_AVANADE/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.pdb
+C:/Users/denis.sorrilha.ext/OneDrive - ESPM/Documentos/Pessoais/estudo/Bootcamp - Avanade - .NET/DIO_DECOLA_TECH_AVANADE/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.genruntimeconfig.cache
+C:/Users/denis.sorrilha.ext/OneDrive - ESPM/Documentos/Pessoais/estudo/Bootcamp - Avanade - .NET/DIO_DECOLA_TECH_AVANADE/ExemploExplorando/obj/Debug/net8.0/ref/ExemploExplorando.dll
+/home/sorrilha/Documentos/estudos/Trilha_DotNET_Developer_DIO/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando
+/home/sorrilha/Documentos/estudos/Trilha_DotNET_Developer_DIO/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando.deps.json
+/home/sorrilha/Documentos/estudos/Trilha_DotNET_Developer_DIO/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando.runtimeconfig.json
+/home/sorrilha/Documentos/estudos/Trilha_DotNET_Developer_DIO/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando.dll
+/home/sorrilha/Documentos/estudos/Trilha_DotNET_Developer_DIO/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando.pdb
+/home/sorrilha/Documentos/estudos/Trilha_DotNET_Developer_DIO/ExemploExplorando/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/sorrilha/Documentos/estudos/Trilha_DotNET_Developer_DIO/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.csproj.AssemblyReference.cache
+/home/sorrilha/Documentos/estudos/Trilha_DotNET_Developer_DIO/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+/home/sorrilha/Documentos/estudos/Trilha_DotNET_Developer_DIO/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.AssemblyInfoInputs.cache
+/home/sorrilha/Documentos/estudos/Trilha_DotNET_Developer_DIO/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.AssemblyInfo.cs
+/home/sorrilha/Documentos/estudos/Trilha_DotNET_Developer_DIO/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.csproj.CoreCompileInputs.cache
+/home/sorrilha/Documentos/estudos/Trilha_DotNET_Developer_DIO/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.sourcelink.json
+/home/sorrilha/Documentos/estudos/Trilha_DotNET_Developer_DIO/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.csproj.CopyComplete
+/home/sorrilha/Documentos/estudos/Trilha_DotNET_Developer_DIO/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.dll
+/home/sorrilha/Documentos/estudos/Trilha_DotNET_Developer_DIO/ExemploExplorando/obj/Debug/net8.0/refint/ExemploExplorando.dll
+/home/sorrilha/Documentos/estudos/Trilha_DotNET_Developer_DIO/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.pdb
+/home/sorrilha/Documentos/estudos/Trilha_DotNET_Developer_DIO/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.genruntimeconfig.cache
+/home/sorrilha/Documentos/estudos/Trilha_DotNET_Developer_DIO/ExemploExplorando/obj/Debug/net8.0/ref/ExemploExplorando.dll
