@@ -7,15 +7,84 @@ using System.Globalization;
 using System.IO;
 using System.Numerics;
 
-// DESERIALIZAÇÃO:
+int numero = 20;
+bool par = false;
 
-string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
+//IF ternário
+par = numero .EhPar();
 
-List<VendaDeserializacao> listaVendas = JsonConvert.DeserializeObject<List<VendaDeserializacao>>(conteudoArquivo);
+int teste = 0;
+teste.EhPar();
 
-foreach (VendaDeserializacao venda in listaVendas) {
-    Console.WriteLine($"Id: {venda.Id}, Produto: {venda.Produto}, Preço: {venda.Preco}, Data: {venda.DataVenda.ToString("dd/MM/yyyy HH:mm")}");
-}
+string mensagem = "O número " + numero + " " + "é " + (par ? "par": "ímpar");
+Console.WriteLine(mensagem);
+
+
+
+
+// MeuArray<int> arrayInteiro = new MeuArray<int>();
+
+// arrayInteiro.AdicionarElementoArray(30);
+
+// Console.WriteLine(arrayInteiro[0]);
+
+
+// MeuArray<string> arrayString = new MeuArray<string>();
+
+// arrayString.AdicionarElementoArray("hhh");
+
+// Console.WriteLine(arrayString[0]);
+
+
+
+
+// dynamic variavelDinamica = 4;
+
+
+// Console.WriteLine($"O tipo da varíavel: {variavelDinamica.GetType()}, Valor: {variavelDinamica}");
+
+
+
+
+
+// string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
+
+// List<VendaDeserializacao> listaVenda =JsonConvert.DeserializeObject<List<VendaDeserializacao>>(conteudoArquivo);
+
+// var listaAnonimo = listaVenda.Select(x => new { x.Produto, x.Preco });
+
+// foreach(var venda in listaAnonimo) {
+
+//     Console.WriteLine($"Produto: {venda.Produto}, Preço: {venda.Preco}");
+// }
+
+
+// var tipoAnonimo = new { Nome = "Denis", Sobrenome = "Sorrilha", Altura = 1.80};
+
+
+// Console.WriteLine("Nome: " + tipoAnonimo.Nome);
+// Console.WriteLine("Sobrenome: " + tipoAnonimo.Sobrenome);
+// Console.WriteLine("Altura: " + tipoAnonimo.Altura);
+
+
+// bool? desejaReceberEmail = null;
+
+// if (desejaReceberEmail.HasValue && desejaReceberEmail.Value) {
+//     Console.WriteLine("O usuário optou por receber e-mail.");
+// } else {
+//     Console.WriteLine("O usuário não respondeu ou não optou por receber e-mail");
+// }
+
+// // DESERIALIZAÇÃO:
+
+// string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
+
+// List<VendaDeserializacao> listaVendas = JsonConvert.DeserializeObject<List<VendaDeserializacao>>(conteudoArquivo);
+
+// foreach (VendaDeserializacao venda in listaVendas) {
+//     Console.WriteLine($"Id: {venda.Id}, Produto: {venda.Produto}, Preço: {venda.Preco}, Data: {venda.DataVenda.ToString("dd/MM/yyyy HH:mm")}" +
+//     $" {(venda.Desconto.HasValue ? $"Desconto de: {venda.Desconto}" : "")}");
+// }
 
 
 
