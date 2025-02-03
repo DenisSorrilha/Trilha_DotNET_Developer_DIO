@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7pOsR1OoJMHrSs1kfFUqdkg3iu1K1ECRGLT1RwA8OULK/yqCPHFz4SE7Pvx5oiloPIjc0bfC6LquFJ+E5r82tw==",
+  "dgSpecHash": "yFDryX/jMAGNKOtpdX53306lard0daBr9neqvV09XpC6ev/FuS+iiOmB1s4emvvo92pew820heP8FedAz75sGA==",
   "success": true,
-  "projectFilePath": "/home/sorrilha/Documentos/estudos/Trilha_DotNET_Developer_DIO/ExemploExplorando/ExemploExplorando.csproj",
+  "projectFilePath": "/home/sorrilha/Documentos/C#/Trilha_DotNET_Developer_DIO/ExemploExplorando/ExemploExplorando.csproj",
   "expectedPackageFiles": [
     "/home/sorrilha/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
   ],

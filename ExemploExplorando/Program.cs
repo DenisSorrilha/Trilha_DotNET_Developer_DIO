@@ -7,6 +7,40 @@ using System.Globalization;
 using System.IO;
 using System.Numerics;
 
+// USANDO UM DESCONSTRUTOR
+/*
+Pessoa p1 = new Pessoa("Heitor", "Sorrilha");
+// Utilizando o tipo e nome das variáveis nome e sobrenome e atribuindo à variável p1, o dotnet identifica que estamos usando um desconstrutor.
+(string nome, string sobrenome) = p1;
+
+Console.WriteLine($"{nome} {sobrenome}");
+
+-------------------------------------------------------------------------
+*/
+
+/*
+
+// TRABALHANDO COM LEITURA DE ARQUIVO TXT
+
+
+LeituraArquivo arquivo = new LeituraArquivo();
+// descarte da variável quantidadeLinhas utilizando o underscore _
+var (sucesso, linhasArquivo, _)= arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+
+if (sucesso)
+{
+    //Console.WriteLine("Quantidade de linhas do arquivo: " + quantidadeLinhas);
+    foreach (string linha in linhasArquivo)
+    {
+        Console.WriteLine(linha);
+    }
+} else
+{
+    Console.WriteLine("Não foi possível ler o arquivo");
+}
+*/
+
+/*
 int numero = 20;
 bool par = false;
 
@@ -18,8 +52,7 @@ teste.EhPar();
 
 string mensagem = "O número " + numero + " " + "é " + (par ? "par": "ímpar");
 Console.WriteLine(mensagem);
-
-
+*/
 
 
 // MeuArray<int> arrayInteiro = new MeuArray<int>();
@@ -36,7 +69,7 @@ Console.WriteLine(mensagem);
 // Console.WriteLine(arrayString[0]);
 
 
-
+// VARIÁVEL DINÂMICA
 
 // dynamic variavelDinamica = 4;
 
@@ -108,8 +141,26 @@ Console.WriteLine(mensagem);
 
 // Console.WriteLine(serializando);
 
+// DECLARAÇÃO DE TUPLA:
 
+/*
 
+(int Id, string Nome, string Sobrenome, decimal Altura) tupla = (1, "Denis", "Sorrilha", 1.81M);
+
+//outra representação de tupla
+ValueTuple<int, string, string, decimal> outroExemploTupla = (1, "Denis", "Sorrilha", 1.81M);
+
+//ou
+var outroExemploTupleCreate = Tuple.Create(1, "Denis", "Sorrilha", 1.81M);
+
+Console.WriteLine($"ID: {tupla.Id}");
+Console.WriteLine($"Nome: {tupla.Nome}");
+Console.WriteLine($"Sorrilha: {tupla.Sobrenome}");
+Console.WriteLine($"Altura: {tupla.Altura}");
+
+*/
+
+// DICIONÁRIO
 
 // Dictionary<string, string> estados = new Dictionary<string, string>();
 
@@ -141,6 +192,7 @@ Console.WriteLine(mensagem);
 // }
 
 
+// PILHA - LIFO (Last in First Out)
 
 // Stack<int> pilha = new Stack<int>();
 
@@ -160,6 +212,8 @@ Console.WriteLine(mensagem);
 // foreach(int item in pilha) {
 //     Console.WriteLine(item);
 // }
+
+// FILA (QUEUE) - FIFO (First In First Out)
 
 // Queue<int> fila = new Queue<int>();
 
@@ -184,6 +238,7 @@ Console.WriteLine(mensagem);
 
 // new ExemploExcecao().Metodo1();
 
+// TRATAMENTO DE EXCEÇÕES:
 
 // try {
     
@@ -204,6 +259,9 @@ Console.WriteLine(mensagem);
 // } finally {
 //     Console.WriteLine("Chegou até aqui!");
 // }
+
+
+
 
 //DateTime data = DateTime.Now;
 

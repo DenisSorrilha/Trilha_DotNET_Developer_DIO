@@ -7,16 +7,27 @@ namespace ExemploExplorando.Models
 {
     public class Pessoa
     {
+        //Construtor vazio
         public Pessoa() {
 
         }
+        //Construtor Pessoa
         public Pessoa(string nome, string sobrenome) {
             Nome = nome;
             Sobrenome = sobrenome;
         }
-        private string? _nome;
+
+        // Criando um desconstrutor
+        public void Deconstruct (out string nome, out string sobrenome)
+        {
+            nome = Nome;
+            sobrenome = Sobrenome;
+        }
+        private string _nome;
         private int _idade;
-        public string? Nome { 
+
+        //Propriedade Nome
+        public string Nome { 
             get => _nome.ToUpper();
 
             set {
@@ -28,10 +39,13 @@ namespace ExemploExplorando.Models
             } 
         }
 
-        public string? Sobrenome { get; set; }
+        //Propriedade Sobrenome
+        public string Sobrenome { get; set; }
+
+        //Variável NomeCompleto converte o sobrenome para maiúsculo.
         public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
 
-
+        //Propriedade Idade
         public int Idade { 
             get => _idade;
             
@@ -44,6 +58,7 @@ namespace ExemploExplorando.Models
             }
         }
 
+        // Metódo Apresentar
         public void Apresentar() {
             Console.WriteLine($"Nome: {NomeCompleto}, Idade: {Idade}");
             

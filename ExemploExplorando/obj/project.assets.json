@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sorrilha/Documentos/estudos/Trilha_DotNET_Developer_DIO/ExemploExplorando/ExemploExplorando.csproj",
+      "projectUniqueName": "/home/sorrilha/Documentos/C#/Trilha_DotNET_Developer_DIO/ExemploExplorando/ExemploExplorando.csproj",
       "projectName": "ExemploExplorando",
-      "projectPath": "/home/sorrilha/Documentos/estudos/Trilha_DotNET_Developer_DIO/ExemploExplorando/ExemploExplorando.csproj",
+      "projectPath": "/home/sorrilha/Documentos/C#/Trilha_DotNET_Developer_DIO/ExemploExplorando/ExemploExplorando.csproj",
       "packagesPath": "/home/sorrilha/.nuget/packages/",
-      "outputPath": "/home/sorrilha/Documentos/estudos/Trilha_DotNET_Developer_DIO/ExemploExplorando/obj/",
+      "outputPath": "/home/sorrilha/Documentos/C#/Trilha_DotNET_Developer_DIO/ExemploExplorando/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/sorrilha/.nuget/NuGet/NuGet.Config"
@@ -112,7 +112,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.112/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
